@@ -4,7 +4,7 @@ Authors: Ulker Aliyeva
 Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
 
 Source (video):
-https://drive.google.com/file/d/1oCnfNZJ4xQOrEm4hbIz5GA7pjp7kbWua/view?usp=drive_link
+https://www.youtube.com/watch?v=9EYs5fDXG94
 
 Description:
 Full project walkthrough video for the Automatic Street Light engineering project. The recording covers the complete process: circuit assembly on the breadboard, TinkerCAD simulation under different lighting conditions, the live breadboard test (LED switching ON in darkness and OFF in light), and a guided walk-through of the troubleshooting cases where component values were intentionally changed to demonstrate failure modes.
@@ -13,7 +13,7 @@ Both implementations are featured in the same video:
 - The analog transistor design (Project 1)
 - The Arduino-based design (Project 2)
 
-The video is hosted on Google Drive (link above). For the underlying reports, calculations and schematics, see entry 10 (Automatic Street Light — Engineering Project).
+The video is hosted on YouTube (link above). For the underlying reports, calculations and schematics, see entry 10 (Automatic Street Light — Engineering Project).
 
 Subject:
 - Field: Electronics / Embedded Systems

@@ -21,7 +21,7 @@ files (docx, ino, images).
 | 08 | Electronics Project — 12/03 | [link](https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 09 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazrin Aliyeva · Ulkar Aliyeva · Nazila Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 10 | Automatic Street Light — Engineering Project | [Project 1 (Transistor)](https://www.academia.edu/167305288/Technical_Laboratory_Report_Automatic_Street_Light_Using_Transistor_and_Photoresistor_by_Ulker_Aliyeva_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) · [Project 2 (Arduino)](https://www.academia.edu/167305330/Technical_Laboratory_Report_Automatic_Street_Light_Using_Arduino_and_Photoresistor_by_Ulker_Aliyeva_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ulker Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 11 | Automatic Street Light — Project Demo Video | [Google Drive](https://drive.google.com/file/d/1oCnfNZJ4xQOrEm4hbIz5GA7pjp7kbWua/view?usp=drive_link) | Ulker Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 11 | Automatic Street Light — Project Demo Video | [YouTube](https://www.youtube.com/watch?v=9EYs5fDXG94) | Ulker Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 
 ---
 
@@ -619,7 +619,7 @@ Threshold 500 → V ≈ 2.44 V → R_LDR ≈ 10.5 kΩ at switching point
 --------------------
 11.Topic
 
-https://drive.google.com/file/d/1oCnfNZJ4xQOrEm4hbIz5GA7pjp7kbWua/view?usp=drive_link
+https://www.youtube.com/watch?v=9EYs5fDXG94
 
 verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
 https://www.instagram.com/physics_teacher_azerbaijan
@@ -635,7 +635,7 @@ walk-through of the troubleshooting cases.
 **Authors:** Ulker Aliyeva
 **Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
 
-### 🎬 [▶︎ Watch the demo video on Google Drive](https://drive.google.com/file/d/1oCnfNZJ4xQOrEm4hbIz5GA7pjp7kbWua/view?usp=drive_link)
+### 🎬 [▶︎ Watch the demo video on YouTube](https://www.youtube.com/watch?v=9EYs5fDXG94)
 
 ---
 
