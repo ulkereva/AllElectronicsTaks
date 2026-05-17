@@ -1,0 +1,30 @@
+Title: Automatic Street Light — Engineering Project (Transistor + Arduino implementations) — by Ulker Aliyeva — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Authors: Ulker Aliyeva
+Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Sources:
+- Project 1 (Transistor): https://www.academia.edu/167305288/Technical_Laboratory_Report_Automatic_Street_Light_Using_Transistor_and_Photoresistor_by_Ulker_Aliyeva_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_
+- Project 2 (Arduino):    https://www.academia.edu/167305330/Technical_Laboratory_Report_Automatic_Street_Light_Using_Arduino_and_Photoresistor_by_Ulker_Aliyeva_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_
+- TinkerCAD simulation:   https://www.tinkercad.com/things/47TUor67Z6c/editel?sharecode=S8OBHVcXB3tZmtJPzhsBS-MZXdDSUFm4T5gfVF-KAoE
+
+Description:
+A two-part laboratory engineering project on automatic light-sensing circuits.
+
+Project 1 — Transistor Auto Light:
+An analog breadboard-based circuit using a Light Dependent Resistor (LDR) and an NPN transistor (2N2222 or BC547) as a switch. When ambient light drops, the LDR resistance increases, more current flows through R2 (1 kΩ) into the transistor base, the transistor saturates, and the LED turns ON. Includes full calculations for R1 (440 Ω, LED current limiting), R2 (1 kΩ, base resistor) and power dissipation, plus two troubleshooting cases (over-voltage at 30 V with R1=216 Ω and R2=185 Ω).
+
+Project 2 — Arduino Auto Light:
+A microcontroller-based version using Arduino UNO. The LDR is wired as a voltage divider (with a 10 kΩ pull-down) into analog pin A0; the Arduino reads the analog value (0–1023) and switches the LED on digital pin 10 (through R1 = 330 Ω) when the reading exceeds the threshold of 500. The programmable threshold is the main advantage over the analog design — sensitivity can be tuned in software without changing components. Includes full calculations, simulation results, and two troubleshooting cases (R2 = 485 Ω too low, and R1 = 19 Ω damaging an Arduino I/O pin).
+
+Files in this folder (10_auto_street_light/):
+- Project1_Transistor_AutoLight.docx — full Project 1 report
+- Project2_Arduino_AutoLight.docx     — full Project 2 report
+- auto_street_light.ino                — Arduino sketch (Project 2)
+- images/                              — schematics and TinkerCAD screenshots
+
+Subject:
+- Field: Electronics / Embedded Systems
+- Type: Engineering Laboratory Project (two parts)
+- Language: English
+- Location: Azerbaijan, Baku

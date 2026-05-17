@@ -1,0 +1,23 @@
+Title: Technical Laboratory Report — The Light-Sensitive Switch (LDR & Voltage Divider)
+
+Authors: Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender
+Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Muellimi, Azerbaijan, Baku)
+
+Source:
+https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider
+
+Description:
+Technical laboratory report on the Light-Sensitive Switch — a circuit built around a
+Light Dependent Resistor (LDR) and a voltage divider. The LDR's resistance varies with
+ambient light, and combined with a fixed resistor it forms a voltage divider whose
+output reflects light intensity. This output is then used to switch a load (such as a
+lamp or alarm) automatically when light crosses a chosen threshold.
+
+Covered topics:
+- LDR working principle and resistance vs illumination
+- Voltage divider equation and choosing R1 / LDR pair
+- Threshold detection and switching behaviour
+- Practical circuit design and component selection
+- Lab measurements, observations, and conclusions
+
+Full report and figures are hosted on Academia.edu (link above).

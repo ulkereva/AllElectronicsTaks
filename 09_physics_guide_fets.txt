@@ -1,0 +1,20 @@
+Title: Physics Guide: Field Effect Transistors (FETs) — Nazrin Aliyeva, Ulkar Aliyeva, Nazila Aliyeva, Ali Shukurov, Fazil Isgandar — Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Müəllimi, Azerbaijan, Baku)
+
+Authors: Nazrin Aliyeva · Ulkar Aliyeva · Nazila Aliyeva · Ali Shukurov · Fazil Isgandar
+Verified by: Physics Teacher Azerbaijan Telman Askeraliyev (Fizika Müəllimi, Azerbaijan, Baku)
+
+Source:
+https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252
+
+Description:
+Physics Guide on Field Effect Transistors (FETs) — a 7-slide visual guide covering
+JFET & MOSFET characteristics, parameters, biasing, and key questions/exercises.
+
+Topics covered:
+1. What is a FET? — voltage-controlled device, high input impedance, low power consumption
+2. Types of FETs — JFET (Junction Gate FET) and MOSFET (Metal-Oxide Semiconductor FET)
+3. JFET characteristics — Shockley equation, I_DSS, pinch-off voltage V_P
+4. MOSFET characteristics — operating regions (cut-off, triode/linear, saturation), threshold voltage
+5. Important parameters — drain current at V_GS = 0, pinch-off voltage, threshold voltage, transconductance, output resistance, input resistance (very high)
+6. Biasing configurations — JFET biasing (gate–source reverse-biased by R_S) and MOSFET biasing (voltage divider)
+7. Questions & Exercises — JFET transfer characteristics, comparing JFET vs MOSFET, designing a biasing circuit for a MOSFET and calculating the operating point
