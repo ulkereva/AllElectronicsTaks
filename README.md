@@ -626,7 +626,7 @@ https://www.instagram.com/physics_teacher_azerbaijan
 
 # Automatic Street Light — Project Demo Video
 
-Full project demonstration video, hosted on Google Drive. The recording walks
+Full project demonstration video, hosted on YouTube. The recording walks
 through the entire process for both implementations from entry 10 — circuit
 assembly, TinkerCAD simulation under different lighting conditions, the live
 breadboard test (LED switching ON in darkness and OFF in light), and a guided
@@ -655,7 +655,7 @@ walk-through of the troubleshooting cases.
 
 | File | Description |
 |------|-------------|
-| `11_project_demo_video.txt` | Description with the Google Drive link |
+| `11_project_demo_video.txt` | Description with the YouTube link |
 
 ---
 
