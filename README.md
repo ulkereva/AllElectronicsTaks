@@ -22,6 +22,7 @@ files (docx, ino, images).
 | 09 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazrin Aliyeva · Ulkar Aliyeva · Nazila Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 10 | Automatic Street Light — Engineering Project | [Project 1 (Transistor)](https://www.academia.edu/167305288/Technical_Laboratory_Report_Automatic_Street_Light_Using_Transistor_and_Photoresistor_by_Ulker_Aliyeva_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) · [Project 2 (Arduino)](https://www.academia.edu/167305330/Technical_Laboratory_Report_Automatic_Street_Light_Using_Arduino_and_Photoresistor_by_Ulker_Aliyeva_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ulker Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 11 | Automatic Street Light — Project Demo Video | [YouTube](https://www.youtube.com/watch?v=9EYs5fDXG94) | Ulker Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 12 | Lecture Notes (Konspekt) — Photo Archive | [Google Drive](https://drive.google.com/file/d/1tFPYjNjmQFz9KeMdJuHh76VCHexohbd5/view?usp=drive_link) | Ulker Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 
 ---
 
@@ -664,4 +665,51 @@ walk-through of the troubleshooting cases.
 - **Field:** Electronics / Embedded Systems
 - **Type:** Project Demonstration Video
 - **Language:** English
+- **Location:** Azerbaijan, Baku
+
+--------------------
+12.Topic
+
+https://drive.google.com/file/d/1tFPYjNjmQFz9KeMdJuHh76VCHexohbd5/view?usp=drive_link
+
+verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
+https://www.instagram.com/physics_teacher_azerbaijan
+
+# Lecture Notes (Konspekt) — Photo Archive
+
+Photo archive of the lecture notes (konspekt) taken during the Electronics &
+Physics course. The notes accompany the laboratory reports and presentations
+listed in entries 01–11 — they include hand-written derivations, circuit
+sketches, equation walk-throughs, and class observations made while preparing
+each topic.
+
+**Authors:** Ulker Aliyeva
+**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
+
+### 📓 [▶︎ Open the lecture notes on Google Drive](https://drive.google.com/file/d/1tFPYjNjmQFz9KeMdJuHh76VCHexohbd5/view?usp=drive_link)
+
+---
+
+## Contents of the Archive
+
+- Hand-written derivations and equation walk-throughs
+- Circuit sketches and component-level diagrams
+- Observations and tweaks made while building each project
+- Cross-references back to the formal lab reports in entries 01–11
+
+---
+
+## Files
+
+| File | Description |
+|------|-------------|
+| `12_lecture_notes.txt` | Description with the Google Drive link to the photo archive |
+
+---
+
+## Subject
+
+- **Field:** Electronics / Physics
+- **Type:** Lecture Notes — Photo Archive
+- **Language:** English / Azerbaijani
 - **Location:** Azerbaijan, Baku
